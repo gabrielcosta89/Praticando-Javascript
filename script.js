@@ -3,7 +3,7 @@ let alimentacao = ['Pão de forma', 'Pão de Sal', 'Salsicha', 'Água', 'Molho d
 let higiene = ['Escova de dente', 'Papel higienico', 'Sabonete', 'Shampoo', 'perfume']
 let lazer = ['bola', 'peteca', 'corda', 'pipa', 'pato']
 let cuidadosMedicos = ['dipirona', 'bandeige', 'antimosquito', 'tirasangue', 'spray']
-let besteiras = ['bobo', 'bobagem', 'sargadin', 'sargadao', 'biridin']
+let roupas = ['chapeu', 'camisa', 'calca', 'sapato', 'blusa']
 
 caixaDeSuprimentos.push(alimentacao, higiene, lazer, cuidadosMedicos, besteiras,)
 
